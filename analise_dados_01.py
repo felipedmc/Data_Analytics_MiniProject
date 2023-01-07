@@ -136,6 +136,7 @@ from IPython.display import display
 
 #region QUESTÃO 6 - Qual o ticket médio mensal (faturamento médio mensal) dos contratos?
 #
+#
 # clientes = pd.read_csv(r'CadastroClientes.csv', sep= ';')
 # clientes.info()
 # ticket_medio_mes = clientes['Valor Contrato Mensal'].mean()
